@@ -1,5 +1,5 @@
 
-# Evaluating the Resilience of Large Language Models (LLMs) Against Adversarial Attacks**
+# Evaluating the Resilience of Large Language Models (LLMs) Against Adversarial Attacks
 
 ## Overview:
 In this project, we conducted a comprehensive evaluation of the resilience of Large Language Models (LLMs) to adversarial attacks. Our focus was primarily on models VICUNA and LLAMA 2-7B, aiming to understand their robustness in real-world scenarios where adversaries attempt to manipulate model behavior through carefully crafted inputs.
